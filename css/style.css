@@ -29,7 +29,16 @@ nav.menu li{
 .container{
     width: 900px;
     margin: auto;
+}
 
-    height: 100px;
-    background-color: red;
+.spazio{
+    padding: 15px 0;
+}
+
+.articolo{
+    padding: 25px 0;
+}
+
+.titolo{
+    padding-bottom: 20px;
 }
