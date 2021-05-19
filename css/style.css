@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo img{
+    width: 80px;
+    padding-right: 10px;
+}
+
+.logo{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+nav.menu ul{
+    display: flex;
+    border-bottom: 1px solid black;
+    list-style-type: none;
+    font-size: 13px;
+}
+
+nav.menu li{
+    padding: 0 10px 5px 10px;
+}
+
+.container{
+    width: 900px;
+    margin: auto;
+
+    height: 100px;
+    background-color: red;
+}
