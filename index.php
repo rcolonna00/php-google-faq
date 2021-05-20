@@ -73,7 +73,7 @@
                 
                 <div class="articolo">
                     <h2 class="titolo"><?php echo $article['domanda']; ?></h2>
-                    <p><?php echo $article[risposta] ?></p>      
+                    <p><?php echo $article['risposta']; ?></p>      
                 </div>
                 
             <?php } ?>
